@@ -1,0 +1,9 @@
+{
+  "name": "web-space-invader",
+  "version": "1.0.0",
+  "author": "mdmahikaishar <mahikaishar@gmail.com>",
+  "description": "Play space invader in online.",
+  "main": "index.js",
+  "keywords": ["space-invader", "game"],
+  "license": "ISC"
+}
